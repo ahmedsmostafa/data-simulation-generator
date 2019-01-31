@@ -1,0 +1,9 @@
+bin/
+obj/
+.vscode/
+./vs
+app/.DS_Store
+app/GenData/
+.DS_Store
+app/data
+/app
